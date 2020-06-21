@@ -2,7 +2,7 @@
 
 ![Klipper Service Build/Publish](https://github.com/geoff-coppertop/serviceklipper/workflows/Klipper%20Service%20Build/Publish/badge.svg)
 
-Docker image for aa Klipper container modified to connect to Octoprint over a network linked UART.
+Docker image for a Klipper container modified to connect to Octoprint over a network linked UART.
 
 ## References
 
