@@ -1,4 +1,4 @@
-FROM coppertopgeoff/servicebase
+FROM coppertopgeoff/servicebase:edge
 
 EXPOSE 3333
 
